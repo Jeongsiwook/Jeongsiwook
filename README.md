@@ -1,18 +1,19 @@
-### Hi there 👋
+## Hi I'm siwook 👋
 
-![Jeongsiwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongsiwook&show_icons=true&theme=radical)   
+I'm a FrontEnd junior developer from Korea
+    
+### About me
+- 🔭 I'm currently planning to graduate from university in February 2022.
+- 🌱 I’m currently learning Web programming.   
+- 📫 How to reach me: jsu0638@naver.com
+   
+### Languages and Tools:   
 
-**Jeongsiwook/Jeongsiwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-*/
+| ![Jeongsiwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongsiwook&show_icons=true&theme=radical) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongsiwook&layout=compact&theme=buefy&hide_border=true" /> |   
+| ------------- | ------------- |   
