@@ -5,7 +5,7 @@ I'm a FrontEnd junior developer from Korea
 ### About me
 - 🔭 I'm currently planning to graduate from university in February 2022.
 - 🌱 I’m currently learning Web programming.   
-- 📫 How to reach me: jsu0638@naver.com
+- 📫 How to reach me: jsw0638@gmail.com
    
 ### Languages and Tools:   
 
